@@ -3,7 +3,6 @@
 #2. PLOTLY - FOR BUILDING GRAPHS
 
 #importing libraries
-from typing import Optional
 import streamlit as st
 import numpy as np
 import pandas as pd
