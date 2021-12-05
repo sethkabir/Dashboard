@@ -4,15 +4,11 @@
 
 #importing libraries
 from typing import Optional
-from pandas.core.window.rolling import Window
 import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-import seaborn as sns
-sns.set()
-
 
 
 #PAGE TITLE AND MAIN HEADINGS FOR THE PROJECT
